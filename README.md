@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Oscar 👋
+I would like to use GitHub to share my ideas about Computer Science topics, specially Machine Learning.
 
-<!--
-**ZosoV/ZosoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Current Projects
+Please head over to [my website](https://sites.google.com/view/oscar-guarnizo/home?authuser=0) to see my latest projects.
 
-Here are some ideas to get you started:
+## ✨ Languages & Platforms
+- Python, Tensorflow
+- Unity, C#
+- C, Java
+- Spanish, English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Work & Education
+Ending my Undergradute Degree in Information Technology this year.
+
+## 👯 Wanna collaborate?
+Feel free to contact me at hoskarg9619@gmail.com
