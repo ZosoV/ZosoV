@@ -5,13 +5,14 @@ I would like to use GitHub to share my ideas about Computer Science topics, spec
 Please head over to [my website](https://sites.google.com/view/oscar-guarnizo/home?authuser=0) to see my latest projects.
 
 ## ✨ Languages & Platforms
-- Python, Tensorflow
+- Python, PyTorch Tensorflow
 - Unity, C#
 - C, Java
 - Spanish, English
 
 ## 💼 Work & Education
-Ending my Undergradute Degree in Information Technology this year.
+Information Technology engineer.
+Research Intern at KAUST as 
 
 ## 👯 Wanna collaborate?
 Feel free to contact me at hoskarg9619@gmail.com
