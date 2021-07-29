@@ -12,7 +12,7 @@ Please head over to [my website](https://sites.google.com/view/oscar-guarnizo/ho
 
 ## 💼 Work & Education
 Information Technology engineer.
-Research Intern at KAUST as 
+Research Intern at KAUST.
 
 ## 👯 Wanna collaborate?
 Feel free to contact me at oscar.guarnizo9619@gmail.com
