@@ -15,4 +15,4 @@ Information Technology engineer.
 Research Intern at KAUST as 
 
 ## 👯 Wanna collaborate?
-Feel free to contact me at hoskarg9619@gmail.com
+Feel free to contact me at oscar.guarnizo9619@gmail.com
