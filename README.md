@@ -13,7 +13,8 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 
 ## 💼 Work & Education
 Information Technology engineer.
-Junio Research Fellow at DeepARC Research and Scientific Computing Group
+
+Junior Research Fellow at DeepARC Research and Scientific Computing Group
 
 ## 👯 Wanna collaborate?
 Feel free to contact me at oscar.guarnizo9619@gmail.com
