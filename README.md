@@ -8,8 +8,8 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 ## ✨ Skills
 
 - Languages: Spanish, English
-- Experienced: Python, PyTorch, Jupyter Notebooks, Deepstream, Nvidia Transfer Learning Toolkit,
-- Familiar: Tensorflow, Docker, Pandas, Matplotlib
+- Experienced: ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white&color=3776AB), ![](https://img.shields.io/badge/Tools-PyTorch-orange?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C), ![](https://img.shields.io/badge/Tools-Jupyter Notebook-blue?style=flat&logo=Jupyter&logoColor=white&color=F37626), ![](https://img.shields.io/badge/Tools-Deepstream-blue?style=flat&logo=NVIDIA&logoColor=white&color=76B900), ![](https://img.shields.io/badge/OS-Linux-blue?style=flat&logo=Linux&logoColor=white&color=FCC624), ![](https://img.shields.io/badge/Tools-Git-blue?style=flat&logo=Git&logoColor=white&color=F05032).
+- Familiar: ![](https://img.shields.io/badge/Tools-TensorFlow Keras-orange?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00), Docker, ![](https://img.shields.io/badge/Tools-Pandas-blue?style=flat&logo=pandas&logoColor=white&color=150458), ![](https://img.shields.io/badge/Tools-Matplotlib-blue?style=flat&logo=Python&logoColor=white&color=3776AB), ![](https://img.shields.io/badge/Tools-OpenCV-blue?style=flat&logo=OpenCV&logoColor=white&color=5C3EE8)
 - Beginner: Unity, C#
 
 ## GitHub Stats
