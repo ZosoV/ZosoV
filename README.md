@@ -3,7 +3,7 @@
 A young computer scientist from Ecuador with experience in artificial intelligence. I'm a dynamic and ambitious person with a great passion for mathematics, computer science, and machine learning. In this sense, my skills rely on formal work experience and independent research related to Computer Vision, Deep Learning, Machine Learning, and Mathematics. I intend to use GitHub to share my ideas and learning about Computer Science topics, specially Machine Learning.
 
 ## 🚀 Current Projects
-Please head over to [my website](https://zosov.github.io/) to see my latest projects.
+Please head over to [![](https://img.shields.io/badge/Home--blue?style=flat&logo=Python&logoColor=white&color=3776AB), ![](https://img.shields.io/badge/Tools-OpenCV-blue?style=flat&logo=Home Assistant&logoColor=white&color=5C3EE8)](https://zosov.github.io/) to see my latest projects.
 
 ## ✨ Skills
 
@@ -35,10 +35,10 @@ You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://cdn-icons-png.flaticon.com/512/124/124010.png (facebook icon without padding)
+[2.2]: https://cdn-icons-png.flaticon.com/512/174/174857.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.facebook.com/hoski.guarnizo/
+[2]: https://www.linkedin.com/in/oscar-guarnizo/
