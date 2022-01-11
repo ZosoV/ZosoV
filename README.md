@@ -1,4 +1,4 @@
-# Hi, I'm Oscar 👋
+# Hi, I'm Oscar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 A young computer scientist from Ecuador with experience in artificial intelligence. I'm a dynamic and ambitious person with a great passion for mathematics, computer science, and machine learning. In this sense, my skills rely on formal work experience and independent research related to Computer Vision, Deep Learning, Machine Learning, and Mathematics. I intend to use GitHub to share my ideas and learning about Computer Science topics, specially Machine Learning.
 
@@ -12,12 +12,10 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 - Familiar: Tensorflow, Docker, Pandas, Matplotlib
 - Beginner: Unity, C#
 
-Other Skills: 
-
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosov&theme=tokyonight&hide=c++,scss,html,javascript,jupyter notebook)]() 
-[![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosov&count_private=true&show_icons=true&theme=tokyonight)]() 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosov&theme=tokyonight&hide=c++,scss,html,javascript,jupyter notebook) 
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosov&count_private=true&show_icons=true&theme=tokyonight)
 
 ## 💼 Work & Education
 
