@@ -15,10 +15,6 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 
 ## GitHub Stats
 
-
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zosov&theme=tokyonight&hide=c++,scss,html,javascript" />
-</a>
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zosov&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
