@@ -15,8 +15,13 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zosov&theme=tokyonight&hide=c++,scss,html,javascript,jupyter notebook) 
-![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zosov&count_private=true&show_icons=true&theme=tokyonight)
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zosov&theme=tokyonight&hide=c++,scss,html,javascript" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zosov&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
 
 ## 💼 Work & Education
 
@@ -28,17 +33,3 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 
 ## 👯 Wanna collaborate?
 Feel free to contact me at oscar.guarnizo9619@gmail.com
-
-<!-- Actual text -->
-
-You can find me on [![Facebook][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: https://cdn-icons-png.flaticon.com/512/124/124010.png (facebook icon without padding)
-[2.2]: https://cdn-icons-png.flaticon.com/512/174/174857.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://www.facebook.com/hoski.guarnizo/
-[2]: https://www.linkedin.com/in/oscar-guarnizo/
