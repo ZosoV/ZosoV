@@ -21,4 +21,4 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 * Research Assistant and Teaching Assistant at Yachay Tech, Ecuador.
 
 ## 👯 Wanna collaborate?
-Feel free to contact me at oscar.guarnizo9619@gmail.com
+Feel free to contact me at oscar [DOT] guarnizo9619 [AT] gmail [DOT] com
