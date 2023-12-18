@@ -13,12 +13,13 @@ Please head over to [my website](https://zosov.github.io/) to see my latest proj
 
 ## 💼 Work & Education
 
-* Information Technology engineer at Yachay Tech, Ecuador.
+* Master in Artificial Intelligence and Machine Learning, University of Birmingham, United Kingdom.
 * Machine Learning Engineer at Mobia Latam (start-up), Chile
-* Junior Researcher at DeepARC Research and Scientific Computing Group, Ecuador.
 * Machine Learning Engineer at Digevo, Chile.
+* Junior Researcher at DeepARC Research and Scientific Computing Group, Ecuador.
 * Research Intern at KAUST, Saudi Arabia.
 * Research Assistant and Teaching Assistant at Yachay Tech, Ecuador.
+* Bachelor in Information Technology (BEng) at Yachay Tech, Ecuador.
 
 ## 👯 Wanna collaborate?
 Feel free to contact me at oscar [DOT] guarnizo9619 [AT] gmail [DOT] com
